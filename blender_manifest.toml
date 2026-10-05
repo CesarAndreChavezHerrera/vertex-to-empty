@@ -1,0 +1,18 @@
+schema_version = "1.0.0"
+
+id = "vertex_to_empty"
+version = "1.0.0"
+name = "vertex group to empty"
+tagline = "Automates creating Empties and constraining them to new Vertex Groups from selection."
+maintainer = "Cesar Chavez cchavez@ugb.edu.sv"
+type = "add-on"
+
+# Versiones compatibles de Blender
+blender_version_min = "5.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+website = "https://github.com/CesarAndreChavezHerrera/vertex-to-empty"
+tags = ["3D View", "Modeling"]
