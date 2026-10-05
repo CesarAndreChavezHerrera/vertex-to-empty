@@ -3,7 +3,7 @@ schema_version = "1.0.0"
 id = "vertex_to_empty"
 version = "1.0.0"
 name = "vertex group to empty"
-tagline = "Automates creating Empties and constraining them to new Vertex Groups from selection."
+tagline = "Automates creating Empties and constraining them to new Vertex Groups from selection"
 maintainer = "Cesar Chavez cchavez@ugb.edu.sv"
 type = "add-on"
 
